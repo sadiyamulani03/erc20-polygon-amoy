@@ -16,6 +16,7 @@ This project demonstrates deployment of an ERC-20 token on the Polygon Amoy Test
 3. Compiled and deployed using Remix IDE
 4. Connected MetaMask wallet
 5. Executed token transfer transactions
+6. Imported the GLD Token in MetaMask
 
 ## ⚡ Key Learning:-
 - Understanding Layer 2 transaction behavior
@@ -30,6 +31,10 @@ This project demonstrates deployment of an ERC-20 token on the Polygon Amoy Test
 
  Transaction Details:
  <img width="900" height="481" alt="image" src="https://github.com/user-attachments/assets/3ce22f4c-2539-40a4-9cc0-1a3abcaee081" />
+
+ GLD Token in MetaMask:
+ <img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/0cfe16f4-a73f-4a26-8699-745a28bb44f0" />
+
 
 
 ## Conclusion:
